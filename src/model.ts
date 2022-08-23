@@ -35,33 +35,6 @@ export const products: Product[] = [
       slug: 'ccccc',
       price: 24.99,
       created_at: Date.now
-    },
-    {
-      id: 'uuid',
-      name: 'produto',
-      descriptions: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati maiores reprehenderit voluptatum repellendus nobis ipsam ut harum aperiam corrupti deleniti impedit doloribus suscipit dolor at labore, rem eligendi necessitatibus rerum!',
-      image_url: 'https://source.unsplash.com/random?product,' + Math.random(),
-      slug: 'ddddd',
-      price: 24.99,
-      created_at: Date.now
-    },
-    {
-      id: 'uuid',
-      name: 'produto',
-      descriptions: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati maiores reprehenderit voluptatum repellendus nobis ipsam ut harum aperiam corrupti deleniti impedit doloribus suscipit dolor at labore, rem eligendi necessitatibus rerum!',
-      image_url: 'https://source.unsplash.com/random?product,' + Math.random(),
-      slug: 'eeeee',
-      price: 24.99,
-      created_at: Date.now
-    },
-    {
-      id: 'uuid',
-      name: 'produto',
-      descriptions: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati maiores reprehenderit voluptatum repellendus nobis ipsam ut harum aperiam corrupti deleniti impedit doloribus suscipit dolor at labore, rem eligendi necessitatibus rerum!',
-      image_url: 'https://source.unsplash.com/random?product,' + Math.random(),
-      slug: 'fffff',
-      price: 24.99,
-      created_at: Date.now
-    },
+    }
   ]
   
